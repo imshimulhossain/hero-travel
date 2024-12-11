@@ -163,10 +163,6 @@ header .logo {
     margin-bottom: 30px;
 }
 
-.destination-card {
-    position: relative;
-}
-
 .destination-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -175,6 +171,7 @@ header .logo {
 
 .destination-card {
     border-radius: 20px;
+    position: relative;
 }
 
 .destination-card img {
