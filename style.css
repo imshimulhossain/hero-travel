@@ -21,9 +21,8 @@
     align-items: center;
 }
 
-.header .logo {
+header .logo {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
